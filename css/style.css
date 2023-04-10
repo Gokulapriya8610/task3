@@ -1,0 +1,23 @@
+ .name{
+	padding-top: 300px;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	
+}
+ 
+ body{
+	background-image: url("../images/background.webp");
+	background-size: cover;
+	height: 100px;
+	 background-attachment: fixed;
+	 background-repeat: no-repeat;
+	  background-position: bottom; 
+	  position: relative;
+ }
+	  
+.head{
+	text-align: left;
+	font-size: 50px;
+	color: black;
+}
